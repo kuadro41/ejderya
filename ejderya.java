@@ -1,5 +1,5 @@
 # ejderya
-class Attributes(Ejderya):
+class ejderya(Ejderya):
     def __init__(self) -> None:
         pass
 
